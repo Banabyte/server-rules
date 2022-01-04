@@ -1,0 +1,1 @@
+# AmericanRP - Server Rules
