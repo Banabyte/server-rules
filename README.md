@@ -1,1 +1,3 @@
-## just a test for getting data via next.js
+## Rules repo for our servers
+Updates automatically get fetched by the website
+just push them ;)
