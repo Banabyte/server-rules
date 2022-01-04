@@ -7,47 +7,47 @@
 
 # Lists
 1. Hello World
-1a: This is a sub thing :/
-3. Lorem Ipsum
-3a: This is a sub thing :/
-4. Lorem Ipsum
-4a: This is a sub thing :/
-5. Lorem Ipsum
-5a: This is a sub thing :/
-6. Lorem Ipsum
-6a: This is a sub thing :/
+2. I am a react thing
+3. Made in nextjs
+4. The framework for a better web
+5. I am really cool
 
 # Formatting
 *Hello* **World** ***I am special***
+`NOTE: You stink`
 
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
-Filler Text for scrolling
+```
+You really do :/
+```
+
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
+Filler Text for scrolling<br>
