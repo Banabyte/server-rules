@@ -14,11 +14,12 @@
 
 # Formatting
 *Hello* **World** ***I am special***
-`NOTE: You stink`
 
-```
-You really do :/
-```
+> Hello, I am a warning
+> Please dont do the thing this quote says
+
+
+> Thanks :)
 
 Filler Text for scrolling<br>
 Filler Text for scrolling<br>
