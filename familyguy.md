@@ -1,4 +1,4 @@
-# American RP - Server Rules
+# Family Guy RP - Server Rules
 
 ### General Rules
 1. Use Common Sense
@@ -9,10 +9,11 @@
 6. Mic Spam or Chat Spam is not allowed
 7. One-Way props are not allowed
 8. Do not lie in an admin sit, always tell the truth
-10. Prop-Surfing is not allowed
-11. Prop-Block is not allowed
-12. Prop-Spam is not allowed
-13. Spawning Props in other people’s bases is not allowed
+9. Do not Prop-Abuse
+10. Prop-Surfing
+11. Prop-Block
+12. Prop-Spam
+13. Spawning Props in other people’s bases
 14. Do not Fading-Door-Abuse
 15. You can only kidnap people for 15 minutes, after that you must let them go or kill them.
 
