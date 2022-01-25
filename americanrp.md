@@ -1,44 +1,83 @@
-# American RP - Server Rules
+# Welcome to America!
+###### Server Rules
 
-### General Rules
-1. Use Common Sense
-2. Do not RDA
-3. Do not RDM (Including RevengeRDM)
-4. Do not trade in-game items for real world things (eg. Selling a diamond pickaxe for $20)
-5. DDOS threats/attacks will get you banned from all of our servers + the discord.
-6. Mic Spam or Chat Spam is not allowed
-7. One-Way props are not allowed
-8. Do not lie in an admin sit, always tell the truth
-10. Prop-Surfing is not allowed
-11. Prop-Block is not allowed
-12. Prop-Spam is not allowed
-13. Spawning Props in other people’s bases is not allowed
-14. Do not Fading-Door-Abuse
-15. You can only kidnap people for 15 minutes, after that you must let them go or kill them.
+```lua
+local quick_ruleset = {
+    "Don't Prop-Abuse",
+    "Don't be discriminatory",
+    "Respect People",
+    "Max of 4 Fading Doors (One extra for printers)"
+}
+```
 
-### Base Rules
-16. If someone has a building sign up, you may not raid them.
-17. You are not allowed to have raidable items when you have a building sign. (eg. Bitminers or Money Printers)
-18. One-Way props are allowed, but both parties must be able to see each other to kill each other.
-19. Do not make Black-Out bases
-20. Mega-Bases require at least 3 people
-21. Mega-Bases can only take spots of the map that don’t block off other spots.
-22. The max amount of fading doors is 4. If you live in a mega-base each person can have one extra fading door to protect the building they live in.
-23. Do not make small slits to shoot though. Eg. Foot-Shooting holes or other small areas that can’t be easily shot through by the attacker
+## Section One: General
+1. Don't discriminate against anyone for any reason, unless it is clearly satire or roleplay-based. (still no racism/sexism/age-ism for any reason)
+2. Respect other plyers, staff, and the server itself.
+3. Don't threat a DDOS attack, or even go through with one. You will be blacklisted from the entire network. (IP-Banned & Data-Banned from all servers, banned from the Discord on your main and all found alternate accounts)
+4. Do not lie to administrators who are on duty or investigating a situation.
+5. Use common sense
+6. Do not RDM (Including RevengeRDM, tell staff if you were RDMed)
+7. Do not RDM
+8. Do not trade real-world items for in-game perks or items. You will be banned and not refunded.
+9. Spam of any kind is not allowed.
+10. Do not abuse props
+- Prop-Surfing
+- Prop-Block
+- Prop-Spam
+- Spawning props in other people's bases
+11. Do not body-block
+12. Do not abuse fading doors
+- Holes in the floor for when people walk over it to teap them
+13. When trapping/kidnapping someone, the max time you can have them trapped is 10 minuite. You must kill/let them go after that time.
 
-### Media Player Rules
-24. Do not play inappropriate or misleading videos on the Media Players, doing so will get you punished.
-25. Do not queue videos longer than 15 minutes, unless everyone watching agrees to watch it.
+## Section Two: Base Building
+1. The max ammount of Fading Doors you can have per base is 4, you won't be punished for breaking this rule the first time, but if you continue you may be warned.
+2. You are allowed to have one additional fading door to protect printers and other raidable items, but it can't be attached to the main Fading Door chain.
+3. If you have a Building Sign, you can't own any raidables inside the base
+4. You are allowed to PropBlock your base entrence only when you are building
+5. No "cancer" bases
+- Black Out
+- Crouch
+- Bases with little holes for you to shoot their feet but they can't even see you
+6. When making a maze base, you can't have more than 6 turns.
+- A "turn" is when the player has to switch locations to keep moving forward
+7. To use a base defence, both players must be able to see one-another when combat is happening
+8. No 'Decoy' keypads
+- Kepads must be next to the Fading Door they control
+- Dont create 100 keypads with only one that really opens the door just to annoy raiders, it is not allowed
 
-### Combat/Raiding/Mugging/Kidnapping Rules
-26. The raiding cooldown is 10 minutes for different bases, and 15 minutes for the same base you just raided.
-27. You can only mug someone every 15 minutes. 
-28. The max amount of money you can mug someone for is $15000
-29. Do not mug/kidnap AFK people, it’s a waste of everyone’s time
-30. If you are not raiding a base, you must be in a party with the base owner to defend the base
-31. You must advert raids/mugs/kidnaping
-32. The advert for mugging must be clear, not anything like $15,000+$10,000 or $20,000x4
-33. In order to kill someone during a raid, you must have to KOS sign
-34. Only criminal jobs can mug
-35. NLR only applies to people raiding a base, the owner of the base can always come back to defend
-36. You can kill anyone that is on your property while in your building if they refuse to leave for more than 10 seconds. This only applies if you are building or don’t have a KOS sign.
+## Section Three: Combat
+1. Dont kill the president until he has been president for over 5 minutes. A timer will be added soon when I care enogugh to make it.
+2. If someone has a gun on you, you can use a gun you already have equipped to kill them. You may not get anything from your inventory.
+3. If you hear someone getting a gun from their inventory, while you have a gun on them, you may kill them.
+4. You can kill anyone if they are on your property, no KOS sign is required. If there is no KOS sign, you must warn them first and give them 5 seconds to leave. If you have a KOS sign... light 'em up!
+5. If someone shoots at you, and it wasnt a missclick, you are free to defend yourself.
+
+## Section Four: Mechanics
+1. You may not spam-buy mechanic parts to try to lag/crash the server.
+2. You must charge a fair price, not $10,000,000 for a 100% repair kit
+3. You are allowed to make people go into your shop (kinda hard if their car is broken but whatever), or just let them buy the repair kits and come to you
+
+## Section Five: Textscreens
+1. Do not spam textscreens
+2. Anything not allowed to say in normal chat, you cant put on a textscreen
+3. Don't propclimb with them
+4. KOS/Building signs must be clear, don't pull a pexiate
+5. Don't follow people around with KOS signs killing them, its funny, but it gets old real fast
+6. Only put textscreens on things you own/built
+
+## Section Six: Raiding
+1. Once you finish a raid, you must wait 10 minutes before partisipating in another raid, and 20 minutes before raiding the base you just raided again
+2. You may only raid if you spawn with a lockpick, or are a corrupt cop
+3. If you die as a raider, you can't go back and help the other raiders (if any). If you were the base-owner you may go back and defend your property
+
+## Section Seven: Mugging
+1. You may only mug people if you are a lowlife crook
+2. The max ammount of money you can mug someone for is 5k
+3. When mugging someone, you must advert it and give up to ten seconds for the person to comply with your demands.
+4. Once you mug someone, you must wait 5 minutes before mugging someone else, and 10 munites before muggin the same person again.
+
+## Section Eight: Cinema Manager
+1. You may not use your screen to prop-block, even if you could.
+2. Do not play gore/inappropreate videos. This includes gore, nsfw, among us imposter videos.
+3. You may have your screen anywhere, as long as its not intrusive.
