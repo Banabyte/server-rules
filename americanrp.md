@@ -1,15 +1,6 @@
 # Welcome to America!
 ###### Server Rules
 
-```lua
-local quick_ruleset = {
-    "Don't Prop-Abuse",
-    "Don't be discriminatory",
-    "Respect People",
-    "Max of 4 Fading Doors (One extra for printers)"
-}
-```
-
 ## Section One: General
 1. Don't discriminate against anyone for any reason, unless it is clearly satire or roleplay-based. (still no racism/sexism/age-ism for any reason)
 2. Respect other plyers, staff, and the server itself.
@@ -29,6 +20,7 @@ local quick_ruleset = {
 12. Do not abuse fading doors
 - Holes in the floor for when people walk over it to teap them
 13. When trapping/kidnapping someone, the max time you can have them trapped is 10 minuite. You must kill/let them go after that time.
+14. Try not to make the server too political, we don't care who you voted for.
 
 ## Section Two: Base Building
 1. The max ammount of Fading Doors you can have per base is 4, you won't be punished for breaking this rule the first time, but if you continue you may be warned.
@@ -45,15 +37,18 @@ local quick_ruleset = {
 8. No 'Decoy' keypads
 - Kepads must be next to the Fading Door they control
 - Dont create 100 keypads with only one that really opens the door just to annoy raiders, it is not allowed
+9. Don't be an asshole when designing your base, basically dont do anything that makes it incredibly unfair for people trying to raid your base.
 
 ## Section Three: Combat
 1. Dont kill the president until he has been president for over 5 minutes. A timer will be added soon when I care enogugh to make it.
 2. If someone has a gun on you, you can use a gun you already have equipped to kill them. You may not get anything from your inventory.
 3. If you hear someone getting a gun from their inventory, while you have a gun on them, you may kill them.
 4. You can kill anyone if they are on your property, no KOS sign is required. If there is no KOS sign, you must warn them first and give them 5 seconds to leave. If you have a KOS sign... light 'em up!
-5. If someone shoots at you, and it wasnt a missclick, you are free to defend yourself.
+- If there is a KOS sign present, you dont need to warn them. Just start shooting 😉
+5. If someone shoots at you, and it wasnt a missclick, you are free to defend yourself. If it was clearly an acident, don't do it though.
+6. If you want someone to kill you, you must advert `kill me` for it not to be considered RDM.
 
-## Section Four: Mechanics
+## Section Four: Mechanic Shops
 1. You may not spam-buy mechanic parts to try to lag/crash the server.
 2. You must charge a fair price, not $10,000,000 for a 100% repair kit
 3. You are allowed to make people go into your shop (kinda hard if their car is broken but whatever), or just let them buy the repair kits and come to you
