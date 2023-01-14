@@ -6,3 +6,4 @@ This repository hosts the rules for all our servers. The rules are automatically
 ## Servers
 - [AmericanRP](https://www.github.com/alliance-reunited/server-rules/americanrp.md)
 - [Family Guy DarkRP](https://www.github.com/alliance-reunited/server-rules/familyguy.md)
+- SCP:SL
