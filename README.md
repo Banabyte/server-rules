@@ -6,4 +6,4 @@ This repository hosts the rules for all our servers. The rules are automatically
 ## Servers
 - [AmericanRP](https://www.github.com/Banabyte/server-rules/americanrp.md)
 - [Family Guy DarkRP](https://www.github.com/Banabyte/server-rules/familyguy.md)
-- [SCP:SL](https://www.github.banabyte.com/Banabyte/server-rules/scpsl.md)
+- [SCP:SL](https://www.github.com/Banabyte/server-rules/scpsl.md)
