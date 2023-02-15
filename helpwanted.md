@@ -1,3 +1,4 @@
+[Looking for server Rules? Click here]([https://discord.gg](https://github.com/Banabyte/server-rules/blob/main/familyguy.md#family-guy-darkrp-server-rules))
 # Family Guy DarkRP - Help Wanted
 The reason this server has gone offline is that our developer has quit working on the project and has chosen to abandon the team with his crew. Leaving the code to go depreciated and obsolete upon the release of Family guy darkrp.
 
